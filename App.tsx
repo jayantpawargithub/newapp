@@ -33,6 +33,15 @@ function AppContent() {
   );
 }
 
+function AppContent1() {
+  const safeAreaInsets = useSafeAreaInsets();
+
+  return (
+    <View style={styles.container}>
+   <Text>hell232o</Text>
+    </View>
+  );
+}
 const styles = StyleSheet.create({
   container: {
     flex: 1,

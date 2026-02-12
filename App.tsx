@@ -38,7 +38,7 @@ function AppContent1() {
 
   return (
     <View style={styles.container}>
-   <Text>hell232o</Text>
+   <Text>hello this is my new code </Text>
     </View>
   );
 }

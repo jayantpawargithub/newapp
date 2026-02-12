@@ -28,7 +28,7 @@ function AppContent() {
 
   return (
     <View style={styles.container}>
-   <Text>hello</Text>
+   <Text> hello jayant good evening </Text>
     </View>
   );
 }
